@@ -1,4 +1,4 @@
-let users = ["Ola", "Ania", "Tomek", "Bartek"]
+let users = ["Ola", "Ania", "Tomek", "Bartek", "Ula", "Zenek"]
 
 users.forEach(function(elem) {
     let listItems = document.createElement("li");
